@@ -1,0 +1,48 @@
+body {
+  background: lightblue;
+}
+.Abel {
+  font-family: 'Abel', sans-serif;
+}
+h1 {
+  color: #AA5239
+}
+
+.secondarycolor{
+color: red;
+}
+
+.titles {
+  color: #699A33;
+}
+
+a:link {
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+  font-weight:bold;
+}
+#profileimage {
+  text-align: center;
+}
+.divider {
+  border-style: solid;
+}
+#mainaddress {
+  text-align: left;
+  font-size: 20px;
+}
+#title {
+  text-align: center;
+}
+#workexperience {
+  text-align: right;
+}
+#grid {
+  text-align: center;
+  font-size: 20px;
+}
