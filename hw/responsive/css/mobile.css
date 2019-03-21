@@ -1,0 +1,19 @@
+.article1 {grid-template-columns: 1fr;
+nav ul { grid-template-columns: 1fr 1fr 1fr}
+
+.margin10 {
+  margin: 0px;
+}
+.largeslide {display: none;}
+.smallslide {width: 100%;}
+main {
+  display: block;
+  width: 100%;
+  min-height: 100px;
+  margin-top: 20px;
+  box-sizing: content-box;
+}
+
+.pets {grid-template-columns: 5fr 5fr}
+.travel { grid-template-columns: 5fr 5fr 5fr 5fr}
+.meet {grid-auto-columns: 2fr 2fr 2fr}

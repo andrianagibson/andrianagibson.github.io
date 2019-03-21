@@ -1,0 +1,35 @@
+.article1 { grid-template-columns: 1fr 2fr;}
+.article1 {grid-template-columns: 1fr 2fr;}
+.article3 {grid-template-columns: 1fr 1fr 1fr 1fr;}
+nav ul { grid-template-columns: 1fr 1fr 1fr}
+
+.border { border: 1px solid #000000;}
+.margin10 {
+  margin: 10px;
+}
+.largeslide {max-width: 100%}
+.smallslide {display: none;}
+body,html { padding: 0;margin: 0;}
+  body {background: #407F7F;}
+main {
+  display: block;
+  width: 960px;
+  min-height: 100px;
+  min-height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  background: white;
+}
+header {
+  text-align: center;
+}
+section {
+  min-height: 100px;
+}
+
+.travel { grid-template-columns: 5fr 5fr 5fr 5fr}
+
+.gallery {grid-template-rows:    repeat(4, 100px);
+grid-template-columns: repeat(3, 1fr);
+}

@@ -1,0 +1,11 @@
+.border { border: 1px solid #000000;}
+.margin10 {
+  margin: 10px;
+}
+body {background: #666666;}
+main {
+  background: white;
+}
+header {
+  text-align: center;
+}
