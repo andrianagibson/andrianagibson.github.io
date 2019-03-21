@@ -16,4 +16,5 @@ main {
 
 .pets {grid-template-columns: 5fr 5fr}
 .travel { grid-template-columns: 5fr 5fr 5fr 5fr}
-.meet {grid-auto-columns: 2fr 2fr 2fr}
+.meet {
+  grid-auto-columns: 2fr 2fr 2fr}
