@@ -67,6 +67,7 @@ $('.prev').on('click', function() {
 
 $('.start').on('click', function() {
   $('.body').css('color', 'green');
+
 });
 
 $('.finish').on('click', function() {
